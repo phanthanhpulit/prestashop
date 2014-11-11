@@ -388,3 +388,6 @@ III. 	CÁC MODULES CÀI ĐẶT
 
 	- Hiển thị các sản phẩm mới.
 
+8.      Quản lí tồn kho
+
+9.	Gửi mail khách hàng
