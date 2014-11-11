@@ -48,33 +48,17 @@ II.	CÁC CHỨC NĂNG
 	-  Sau đó chọn Thanh toán, trang Thanh toán sẽ hiện ra
 	-  Nếu khách hàng đã đăng nhập thông khách hàng sẽ đực điền vào       các trường và khách hàng chọn phương thức thanh toán
 	-  Nếu khách hàng chưa có tài khoản có thể điền các thông tin cần thiết sau đó chọn hương thức thanh toán
-
-4.	So sánh sản phẩm
-
-	-  Khách hàng chọn các sản phẩm cần so sánh
-	-  Sau đó vào trang So sánh để so sánh tính năng của các sản phẩm
+4.      Comment Facebook sản phẩm
 
 5. 	Chia sẻ lên các mạng xã hội
 
-	-  Khi xem 1 sản phẩm khách hàng có thể chia sẻ lên các mạng xã hội như: Facebook, Google+,...
+	-  Khi xem 1 sản phẩm khách hàng có thể chia sẻ lên các mạng xã hội Facebook
 
 6.	Like trên Facebook
 		
-	-  Khách hàng có thể like website trên facebook để có thể nhận các thông tin mới nhất về website như: khuyến mãi, sự kiện,...
-
-7.	Viết đánh giá về sản phẩm
-
-	-  Khách hàng có thể viết đánh giá về sản phẩm
-	-  Nhận xét sẽ được kiểm duyệt bởi người quản trị sau đó sẽ hiện trên trang chi tiết sản phẩm đó
-
-8.	Nhận tin khuyến mãi
-
-	-  Khách hàng điền địa chỉ Email vào mục Bản tin
-	-  Khi có sự kiện hoặc khuyến mãi khách hàng sẽ được thông báo qua email
+7.	Comment sản phẩm
 
 9.	Tìm kiếm sản phẩm
-
-	-  Khách hàng nhập từ khóa liên quan đến sản phẩm để tìm sản phẩm mong muốn
 
 10.	Sản phẩm đã xem
 
@@ -106,9 +90,7 @@ II.	CÁC CHỨC NĂNG
 13.	Phương thức thanh toán
 
 	-  Có thể thanh toán bằng tiền mặt khi nhận hàng
-	-  Thanh toán bằng chuyển khoản qua ngân hàng
-	-  Thanh toán bằng séc
-
+	
 14.	Thống kê trong DASHBOARD
 
 	-  Thống kê lượng khách hàng truy cập
@@ -160,30 +142,6 @@ II.	CÁC CHỨC NĂNG
 		-  Có thể xóa phân loại ra khỏi cơ sở dữ liệu hoặc Disable phân loại không cho hiện lên website
 	
 	16.4.	Tìm kiếm phân loại
-
-		- Lựa chọn tiêu chí cần tìm sau đó chọn Tìm
-
-17.	Quản lý Thuộc tính sản phẩm
-
-	17.1.	Thêm Thuộc tính
-		
-		-  Điền tên thuộc tính
-		-  Chọn thiết lập chỉ mục
-		-  Đường dẫn URL
-		-  Chọn loại thuộc tính : Drop-down list, Radio buttuons, color or texture
-		-  Sau đó Lưu lại
-
-	17.2.	Sửa Thuộc tính
-		
-		-  Chọn Thuộc tính cần sửa
-		-  Sửa các thông tin cần thiết
-		-  Sau đó Lưu lại
-	
-	17.3.	Xóa Thuộc tính
-
-		-  Xóa Thuộc tính ra khỏi cơ sở dữ liệu
-	
-	17.4.	Tìm kiếm Thuộc tính
 
 		- Lựa chọn tiêu chí cần tìm sau đó chọn Tìm
 
@@ -374,22 +332,16 @@ II.	CÁC CHỨC NĂNG
 
 		- Chọn Banner để thay đổi sau đó chọn Save để lưu
 
-26.	SMPT sử dụng email google
+26.	SMPT sử dụng SMTP2GO
 
 	-  Cấu hình địa chỉ gmail để gửi mail cho khách hàng khi đăng ký thành công  và đặt hàng thành công.
 
 27.	Quản lý đơn hàng
 
-	27.1.	Cập nhật trạng thái đơn hàng	
+		-  Cập nhật trạng thái đơn hàng	
 		-  Chọn đơn hàng cần cập nhật
 		-  Chọn trạng thái đơn hàng 
 		-  Chọn Update Status để cập nhật trạng thái đơn hàng
-
-	27.2.	Gửi email nếu chậm trễ
-
-		-  Chọn loại email
-		-  Điền nội dung email
-		-  Chọn Send Message để gửi
 
 28.	Quản lý khách hàng
 
@@ -407,46 +359,18 @@ II.	CÁC CHỨC NĂNG
 		
 		-  Xóa khách hàng ra khỏi cơ sở dữ liệu
 	
-29.	Chat với nhân viên 
-
-	-  Tại hộp thoại chat khách hàng có thể chat trực tiếp nếu có nhân viên online
-	-  Nếu không có nhân viên online khách hàng có thể để lại thông tin tên, email , câu hỏi để nhân viên gửi phản hồi.	
+29	Comment product
 
 III. 	CÁC MODULES CÀI ĐẶT
 
-1.	Google Analytics
 
-	-  Google Analytics cung cấp tính năng phân tích kỹ thuật số mạnh mẽ cho bất kỳ ai có sở hữu web, lớn hoặc nhỏ. 
-	Đó là một trong những giải pháp phân tích kỹ thuật số có sẵn mạnh mẽ nhất - và hoàn toàn miễn phí cho mọi đối tượng sử dụng.
-
-	-  Nhân viên điều hành có thể tìm hiểu:
-	+  Những sáng kiến tiếp thị nào có hiệu quả nhất
-	+  Các dạng/xu hướng lưu lượng truy cập trang web chính xác
-	+  Khách hàng và phân đoạn khách hàng nào có giá trị nhất
-
-	-  Chuyên gia tiếp thị có thể tìm hiểu:
-	+  Khách truy cập đến từ đâu và họ làm gì trên trang web
-	+  Làm cách nào để trang web có thể chuyển đổi khách truy cập thành khách hàng nhiều hơn
-	+  Từ khóa nào cộng hưởng với khả năng thành công và dẫn đến các chuyển đổi
-	+ Quảng cáo hoặc sáng tạo trực tuyến nào có hiệu quả nhất
-
-	-  Nội dung & nhà phát triển có thể tìm hiểu:
-	+  Nơi mọi người rời khỏi trang web
-	+  Trang nào giữ khách truy cập lâu nhất
-	+  Mọi người sử dụng cụm từ tìm kiếm nào để tìm trang web
-
-2.	Scroll to Top
+1.	Scroll to Top
 
 	-  Chuyển về đầu trang.
 
-3.	Product Comments
-
-	-  Khách hàng viết nhận xét về sản phẩm
+2. 	Faceboook comment
 
 3.	Zopim Chat
-
-	-  Tư vấn trực tiếp khách hàng
-	-  Trả lời các câu hỏi khách hàng
 
 4.	Best-selling Products
 
